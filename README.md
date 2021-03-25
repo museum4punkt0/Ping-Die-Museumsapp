@@ -1,10 +1,22 @@
 # Mein-Objekt
 
-Beschreibung / Entste3hungskontext / Förderhinweis
+Empfehlungen für die Re-strukturierung:
 
-Hinweise zur Installation: welche Komponenten werden bereitgestellt werden und wofür?
+Deutlich machen, dass das hier der zentrale Einstieg ist, der einen Überblick gibt mit
 
-Hinweis aud Doppel-Linzenzierung, jedes Repo gesondert unter Lizenz stellen
+* KurzBeschreibung / Entstehungskontext / Förderhinweis / Credtis /Lizenzen
+
+* Hinweise zur Installation: welche Komponenten werden bereitgestellt und wofür? Welche System- und Hardwarevoraussetzungen?
+
+* Hinweis auf Doppel-Linzenzierung des Frontends
+
+* Jedes Repo muss gesondert unter einer Lizenz stehen (in der Readme aufführen und zur Lizenzdatei verlinken).
+
+* Lizenzdatei bitte separat in jedem Repo einfügen.
+
+* In jedem Repo eine Readme mit Gliederung laut Manual
+
+
 
 Verlinkung zu den nachgeordneten Repos
 
