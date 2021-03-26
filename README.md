@@ -10,11 +10,11 @@ Deutlich machen, dass das hier der zentrale Einstieg ist, der einen Überblick g
 
 * Lizenzdatei bitte separat in jedem Repo einfügen.
 
-* In jedem veruweigten Repo eine Readme mit kurzer Beschreibung, was der Inhalt und der Zusammenhang ist (auch mit Entstehungskontext und Förderhinweis)
+* In jedem verzweigten Repo eine Readme mit kurzer Beschreibung, was der Inhalt und der Bezug zum Gesamtprojekt "Ping! Die Museumsapp" ist (auch hier bitte Entstehungskontext und Förderhinweis)
 
 
 
-Verlinkung zu den nachgeordneten Repos
+Verlinkung zu den nachgeordneten Repos (müssen noch unbenannt werden, bitte neue Titel für die Repos mitteilen)
 
 https://github.com/museum4punkt0/Mein-Objekt-MOB-MIT
 
