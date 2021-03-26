@@ -1,20 +1,16 @@
-# Mein-Objekt
+# Ping! Die Museumsapp
 
 Empfehlungen für die Re-strukturierung:
 
-Deutlich machen, dass das hier der zentrale Einstieg ist, der einen Überblick gibt mit
-
-* KurzBeschreibung / Entstehungskontext / Förderhinweis / Credtis /Lizenzen
-
-* Hinweise zur Installation: welche Komponenten werden bereitgestellt und wofür? Welche System- und Hardwarevoraussetzungen?
+Deutlich machen, dass das hier der zentrale Einstieg ist, der einen Überblick gibt 
 
 * Hinweis auf Doppel-Linzenzierung des Frontends
 
-* Jedes Repo muss gesondert unter einer Lizenz stehen (in der Readme aufführen und zur Lizenzdatei verlinken).
+* Jedes Repo muss gesondert unter einer Lizenz stehen (jeweils in der Readme aufführen und zur Lizenzdatei verlinken).
 
 * Lizenzdatei bitte separat in jedem Repo einfügen.
 
-* In jedem Repo eine Readme mit Gliederung laut Manual
+* In jedem veruweigten Repo eine Readme mit kurzer Beschreibung, was der Inhalt und der Zusammenhang ist (auch mit Entstehungskontext und Förderhinweis)
 
 
 
