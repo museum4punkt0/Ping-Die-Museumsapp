@@ -27,7 +27,8 @@ Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregier
 8. Installation 
 9. Benutzung 
 10. Credits
-11. Lizenz 
+11. Markenname
+12. Lizenz 
 
 
 # Technische Dokumentation der Programmierung 
@@ -82,23 +83,22 @@ https://github.com/museum4punkt0/Ping-TensorFlow
 14. Info Screen: Der Info Screen ist über die untere Bedienleiste immer erreichbar und bietet folgende Funktionen: Name (Der/Die UserIn kann seinen/ihren Namen eintragen/ändern), Bild/ Avatar (Der/Die UserIn kann einen Avatar auswählen oder ein Foto von sich schießen), Sprachauswahl (Die Sprache der App kann ausgewählt werden), Font Size (Die Größe der Schrift kann ausgewählt werden), Chat Interval (Die Geschwindigkeit des Chatverlaufs kann variiert werden), Quit (Hierüber ist der Wechsel zwischen Discovery Modus und Plan Modus möglich), Geschäftsbedingungen (Anzeige der AGB), Visitor Guide (Möglichkeit in ein ergänzendes digitales Angebot zu wechseln), Gerät zurücksetzen (Alle Einstellungen und Vorgänge werden gelöscht) 
 
 
-# Lizenz
-Alle Codeteile sind unter der GPLv3 Lizenz veröffentlicht.
-Zusätzlich dazu wurde das Frontend noch einmal mit der MIT-Lizenz lizensiert.
-Die entsprechenden Versionen finden sie sowohl im Namen der Repositories als auch in der jeweiligen Readme und Lizenzdatei.
-
+# Credits 
+Auftraggeber*in/Rechteinhaber*in 
+Stiftung Humboldt Forum im Berliner Schloss 
+Urheber*innen 
+Humboldt-Universität zu Berlin, gamelab.berlin am Helmholtz-Zentrum für Kulturtechnik, Zentralinstitut der HU. 
 
 # Markenname 
 „Ping! Die Museumsapp“ ist eine Marke der Stiftung Humboldt Forum im Berliner Schloss. Die Marke kann von anderen Institutionen, die die App einsetzen, verwendet werden. In diesem Fall wird um Angabe des folgenden Nachweises gebeten:
 
     „Ping! Die Museumsapp“ ist eine Marke der Stiftung Humboldt Forum im Berliner Schloss.
 
+# Lizenz
+Alle Codeteile sind unter der GPLv3 Lizenz veröffentlicht.
+Zusätzlich dazu wurde das Frontend noch einmal mit der MIT-Lizenz lizensiert.
+Die entsprechenden Versionen finden sie sowohl im Namen der Repositories als auch in der jeweiligen Readme und Lizenzdatei.
 
-# Credits 
-Auftraggeber*in/Rechteinhaber*in 
-Stiftung Humboldt Forum im Berliner Schloss 
-Urheber*innen 
-Humboldt-Universität zu Berlin, gamelab.berlin am Helmholtz-Zentrum für Kulturtechnik, Zentralinstitut der HU. 
 
 
 
