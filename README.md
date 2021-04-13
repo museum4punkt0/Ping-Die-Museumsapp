@@ -57,13 +57,13 @@ Verwendet wird circle.ui für automatisiertes building, testing, migrating and d
 Zur Benutzung werden Smartphones benötigt, die entweder über ein iOS oder ein Android Betriebssystem verfügen. Die Anwendung läuft ab folgenden Betriebssystemen: Android Oreo 8.0 und iOS 10.3.3.. Nach Veröffentlichung der App im Playstore bzw. Appstore kann die Anwendung von jedem/r SmartphonebesitzerIn heruntergeladen und installiert werden. 
 Der Sourcecode gliedert sich in zwei Repositorien: Mein-Objekt-Backend und Mein-Objekt-MOB-GPL. Mein-Objekt-Backend enthält das Python Backend, das TensorFlow Modul (Unterverzeichnis Tensorflow) zur Berechnung der Fotoerkennungs-KI und den Chatbuilder (Unterverzeichnis Chatbuilder) zum Verfassen und Bearbeiten von Dialogen. Das Repositorium Mein-Objekt-MOB-GPL enthält die React Native App zum Deployment auf iOS und Android.
 
-https://github.com/museum4punkt0/Mein-Objekt-MOB-MIT
+https://github.com/museum4punkt0/Ping-APP-MIT
 
-https://github.com/museum4punkt0/Mein-Objekt-MOB-GPL
+https://github.com/museum4punkt0/Ping-APP-GPL
 
-https://github.com/museum4punkt0/Mein-Objekt-Backend
+https://github.com/museum4punkt0/Ping-Backend
 
-https://github.com/museum4punkt0/Mein-Objekt-TensorFlow
+https://github.com/museum4punkt0/Ping-TensorFlow
 
 # Benutzung  
 1. Start Screen: Sprachauswahl und Start der Anwendung 
