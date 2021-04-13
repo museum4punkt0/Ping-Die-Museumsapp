@@ -1,9 +1,5 @@
 # Ping! Die Museumsapp
 
-„Ping! Die Museumsapp“ ist eine Marke der Stiftung Humboldt Forum im Berliner Schloss. Die Marke kann von anderen Institutionen, die die App einsetzen, verwendet werden. In diesem Fall wird um Angabe des folgenden Nachweises gebeten:
-
-    „Ping! Die Museumsapp“ ist eine Marke der Stiftung Humboldt Forum im Berliner Schloss.
-
 # Kurzbeschreibung
 Ping! ist eine eine mobile Anwendung auf dem Smartphone, die eine personalisierte und spielerische Exploration von Exponaten in Museen und Ausstellungen erlaubt. Im Mittelpunkt der User Experience steht das Kennenlernen von Exponaten über Chats und das Anlegen einer eigenen Sammlung von Objekten. 
 Mit den Mitteln des Gamedesigns wird die Motivation der NutzerInnen zu einem eigenaktiven Erschließen der Exponate hergestellt: Die häufig überwältigende Masse an Objekten und die Komplexität des Wissens wird spielerisch reduziert und anschließend dialogisch vermittelt. Gleichzeitig erlaubt die App sowohl eine personalisierte Informationsübermittlung über die herkömmlichen museale Wissensvermittlung hinaus, als auch eine Konzentration auf eine individuelle Auswahl an Museumsobjekten. Der Besucher oder die Besucherin lernt das einzelne Objekt im wahrsten Sinne des Wortes persönlich kennen.
@@ -90,6 +86,13 @@ https://github.com/museum4punkt0/Mein-Objekt-TensorFlow
 Alle Codeteile sind unter der GPLv3 Lizenz veröffentlicht.
 Zusätzlich dazu wurde das Frontend noch einmal mit der MIT-Lizenz lizensiert.
 Die entsprechenden Versionen finden sie sowohl im Namen der Repositories als auch in der jeweiligen Readme und Lizenzdatei.
+
+
+# Markenname 
+„Ping! Die Museumsapp“ ist eine Marke der Stiftung Humboldt Forum im Berliner Schloss. Die Marke kann von anderen Institutionen, die die App einsetzen, verwendet werden. In diesem Fall wird um Angabe des folgenden Nachweises gebeten:
+
+    „Ping! Die Museumsapp“ ist eine Marke der Stiftung Humboldt Forum im Berliner Schloss.
+
 
 # Credits 
 Auftraggeber*in/Rechteinhaber*in 
