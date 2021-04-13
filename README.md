@@ -98,13 +98,3 @@ Humboldt-Universität zu Berlin, gamelab.berlin am Helmholtz-Zentrum für Kultur
 Alle Codeteile sind unter der GPLv3 Lizenz veröffentlicht.
 Zusätzlich dazu wurde das Frontend noch einmal mit der MIT-Lizenz lizensiert.
 Die entsprechenden Versionen finden sie sowohl im Namen der Repositories als auch in der jeweiligen Readme und Lizenzdatei.
-
-
-
-
-Empfehlungen für die Re-strukturierung:
-
-* Jedes Repo muss gesondert unter einer Lizenz stehen (jeweils in der Readme aufführen und zur Lizenzdatei verlinken).
-
-* Lizenzdatei bitte separat in jedem Repo einfügen.
-
