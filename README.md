@@ -86,10 +86,9 @@ https://github.com/museum4punkt0/Ping-TensorFlow
 
 
 # Credits 
-Auftraggeber*in/Rechteinhaber*in 
-Stiftung Humboldt Forum im Berliner Schloss 
-Urheber*innen 
-Humboldt-Universität zu Berlin, gamelab.berlin am Helmholtz-Zentrum für Kulturtechnik, Zentralinstitut der HU. 
+Auftraggeber*in/Rechteinhaber*in : Stiftung Humboldt Forum im Berliner Schloss 
+Urheber*innen: Humboldt-Universität zu Berlin, gamelab.berlin am Helmholtz-Zentrum für Kulturtechnik, Zentralinstitut der HU. 
+Code und Dokumentation in diesem Repositorium wurden begutachtet durch TICE Software UG (haftungsbeschränkt) (https://tice.software/de/)
 
 # Markenname 
 „Ping! Die Museumsapp“ ist eine Marke der Stiftung Humboldt Forum im Berliner Schloss. Die Marke kann von anderen gemeinnützigen Körperschaften für Software genutzt werden, die auf dem veröffentlichten Code (Repositorium) basiert. In diesem Fall wird um Angabe des folgenden Nachweises gebeten:
